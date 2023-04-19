@@ -1,0 +1,5 @@
+{
+  "server": {
+    "adminToken": "GENERATE_TOKEN_HERE"
+  }
+}
